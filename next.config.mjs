@@ -11,7 +11,7 @@ const nextConfig = {
             },
             {
                 protocol: 'https',
-                hostname: 'different-firefly-58.convex.cloud'
+                hostname: 'dashing-platypus-101.convex.cloud'
             },
             {
                 protocol: 'https',
